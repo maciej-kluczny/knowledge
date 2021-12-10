@@ -15,18 +15,20 @@ LDM - **https://www.etsi.org/deliver/etsi_tr/102800_102899/102863/01.01.01_60/tr
 #  Thoery
 
 Data describing real world objects can be categorized in four different types as follows:
-• Type1: permanent static data, usually provided by a map data supplier.
-• Type 2: transient static data, obtained during operation, e.g. changed static speed limits.
-• Type 3: transient dynamic data, e.g. weather situation, traffic information.
-• Type 4: highly dynamic data, e.g. CAM.
+
+- Type1: permanent static data, usually provided by a map data supplier.
+- Type 2: transient static data, obtained during operation, e.g. changed static speed limits.
+- Type 3: transient dynamic data, e.g. weather situation, traffic information.
+- Type 4: highly dynamic data, e.g. CAM.
 
 The analysis of ITS applications is based on following applications:
-• Driving assistance -Co-operative awareness (CA).
-• Driving assistance - Road Hazard Warning (RHW).
-• Co-operative speed management (CSM).
-• Co-operative navigation (CN).
-• Location based services (LBS).
-• Communities services (CS).
-• ITS station life cycle management (LCM).
-• Transport related electronic financial transactions (road tolls).
+
+- Driving assistance -Co-operative awareness (CA).
+- Driving assistance - Road Hazard Warning (RHW).
+- Co-operative speed management (CSM).
+- Co-operative navigation (CN).
+- Location based services (LBS).
+- Communities services (CS).
+- ITS station life cycle management (LCM).
+- Transport related electronic financial transactions (road tolls).
 
