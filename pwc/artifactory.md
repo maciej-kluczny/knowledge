@@ -1,0 +1,5 @@
+
+
+DECO_REGISTRY_USERNAME=maciej.kluczny@de.pwc.com
+DECO_REGISTRY_API_TOKEN=AKCp8krVJJtFPJmdSs54T16Li7QEkSjgfwuaYGPjs5vdULeR1dmybLzJBwxTA9u8AgAoZ2rQs
+DECO_REGISTRY_MAVEN_SNAPSHOT_REPOSITORY_URL=https://artifacts.pwc.com/artifactory/deu-xlos-cdo-dev-maven
