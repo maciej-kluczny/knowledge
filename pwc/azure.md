@@ -12,8 +12,6 @@ az storage blob directory show -c MyContainer -d MyDirectoryPath --account-name 
 
 az storage account show -n staesgdecoddev37160
 
-export AZURE_STORAGE_ACCOUNT=staesgdecoddev37160
-export AZURE_STORAGE_KEY=inQOHhYFetbrvDKqWSISFF6+lP3atYheKw3vbGk7RkUQdKvbYvvrIM2pqfZPW6zfu7cfOMd4JT1BFzNNsmrGzA==
 
 mkluczny@ubuntu  ~  az storage container list | jq
 [
